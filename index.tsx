@@ -1,0 +1,1 @@
+// All code has been moved to index.html within the script tag for compatibility.
